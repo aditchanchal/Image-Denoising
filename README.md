@@ -1,2 +1,2 @@
 # Image-Denoising
-Image Denoising model based on Deep CNN
+Image Denoising model based on Deep CNN in Keras.
