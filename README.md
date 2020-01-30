@@ -12,3 +12,5 @@ Here we incorporate following approaches:
 # Results
 * PSNR(dB) = 29.33
 * SSIM (%) = 91.5
+
+### Refer to REPORT for more details.
